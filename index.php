@@ -1,7 +1,7 @@
 <?php 
 
 ob_start();
-$token = "990858867:AAFwUilT7ix-s08YU2lgwClhj5xWVAojMEg"; 
+$token = "888141727:AAECVND8gXuVvIB_QEFi9daIoUcTFv07zH0"; 
 $bot = "@Onashka_bot"; 
 $admin = 621617473; //user id admin
 $kanal = "-1001439682534";
